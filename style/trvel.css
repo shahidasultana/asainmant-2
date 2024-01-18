@@ -1,0 +1,88 @@
+/*nav reletad style*/
+nav{
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+.image{
+    width: 45px;
+    height: 56.008px;
+}
+nav >ul{
+    display: flex;
+    list-style-type: none;
+    gap: 44px;
+}
+.home{
+    color:#FF5400;
+    
+}
+span{
+    color:#FF5400;
+
+}
+/*bannar releted style*/
+.bannar{
+width: 1000px;
+height: 500px;
+background-repeat: no-repeat;
+border-radius: 16px;
+background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%);
+background-image: url("../Images/Group\ 13\ \(1\)\ \(1\).png");
+}
+.bannar-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 64px;
+    font-weight: 800;
+    padding-top: 10px;
+}
+.bannar-description{
+text-align: center;
+color:#FFF;
+}
+/*button style*/
+.btn-title{
+    text-align: center;
+}
+.btn-style{
+    width: 174px;
+    height: 52px;
+    color: #FFF;
+    background-color: #FF5400;
+    justify-content: center;
+    border-radius: 8px;
+}
+.btn{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    flex-shrink: 0;
+    justify-content: center;
+    background-color: #FF5400;
+}
+/*main section*/
+.main-style{
+    color: rgba(19, 19, 24, 0.70);
+}
+.img{
+    width: 540px;
+    height: 550px;
+    border-radius: 16px;
+}
+.section-style{
+    display: flex;
+}
+/*section 2 style*/
+.section-2{
+    text-align: center;
+}
+.row-maldives{
+    background-image: url("../Images/Rectangle\ 5.png ");
+    width: 573px;
+    height: 300px;
+    text-align: center;
+    color: #FFF;
+    padding-top:123px ;
+}
+
